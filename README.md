@@ -1,4 +1,3 @@
-```markdown
 # 📝 ChatSoBot Clone  
 
 Welcome to the **ChatSoBot Clone**, a fully functional replica of the popular [ChatSoBot](https://t.me/ChatSOBot) designed for social interaction! 🌟  
@@ -62,12 +61,9 @@ Feel free to fork this repository, suggest improvements, or report issues. Your 
 
 ## 💬 Contact  
 If you have questions or need assistance, don’t hesitate to reach out! ✉️  
-```  
-
----
 
 
-```markdown
+
 # 📝 ChatSoBot Klonu  
 
 Xoş gəldiniz! **ChatSoBot Klonu**, məşhur [ChatSoBot](https://t.me/ChatSOBot) botunun tam işlək bir surətidir, tanışlıq və sosial əlaqələr üçün nəzərdə tutulmuşdur! 🌟  
@@ -131,4 +127,3 @@ Depozitariyanı fork edin, təkliflərinizi verin və ya problemləri bildirin. 
 
 ## 💬 Əlaqə  
 Hər hansı bir sualınız və ya yardıma ehtiyacınız varsa, mənimlə əlaqə saxlayın! ✉️  
-```  
