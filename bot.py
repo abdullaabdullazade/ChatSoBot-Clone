@@ -12,12 +12,12 @@ import random
 
 load_dotenv()
 
-TELEGRAM_API_ID = os.getenv("TELEGRAM_API_ID") 
+TELEGRAM_API_KEY = os.getenv("TELEGRAM_API_KEY") 
 TELEGRAM_API_HASH = os.getenv("TELEGRAM_API_HASH")
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 
 # variables
-app = Client('ChatSoBot', api_id=TELEGRAM_API_ID, api_hash=TELEGRAM_API_HASH,
+app = Client('ChatSoBot', api_id=TELEGRAM_API_KEY, api_hash=TELEGRAM_API_HASH,
              bot_token=TELEGRAM_BOT_TOKEN)
 
 stickers = ['🙋🏻‍♂', '👨🏻', '👨🏻‍💻', '👨🏻‍🏫', '👨🏻‍', '🕺', '🥷', '🤴🏻', '👨🏻‍', '👦🏻', '👮🏻‍♂', '👨🏻‍🔧', '👨🏻‍🚒', '👨🏻',
